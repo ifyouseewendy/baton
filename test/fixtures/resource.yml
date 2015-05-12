@@ -1,0 +1,51 @@
+project1:
+  name: 'Project1'
+  description: 'To make project1 work'
+  commands:
+    stage1:
+      name: 'Stage1'
+      description: 'To make stage1 work'
+      commands:
+        task1:
+          name: 'Task1'
+          description: 'To make task1 work'
+          commands:
+            step1:
+              name: 'Step1'
+              description: 'To make step1 work'
+            step2:
+              name: 'Step2'
+              description: 'To make step2 work'
+            step3:
+              name: 'Step3'
+              description: 'To make step3 work'
+        task2:
+          name: 'Task2'
+          description: 'To make task2 work'
+          commands:
+            step4:
+              name: 'Step4'
+              description: 'To make step4 work'
+            step5:
+              name: 'Step5'
+              description: 'To make step5 work'
+            step6:
+              name: 'Step6'
+              description: 'To make step6 work'
+    stage2:
+      name: 'Stage2'
+      description: 'To make stage2 work'
+      commands:
+        task3:
+          name: 'Task3'
+          description: 'To make task3 work'
+          commands:
+            step7:
+              name: 'Step7'
+              description: 'To make step7 work'
+            step8:
+              name: 'Step8'
+              description: 'To make step8 work'
+            step9:
+              name: 'Step9'
+              description: 'To make step9 work'
